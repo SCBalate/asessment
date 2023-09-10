@@ -1,0 +1,21 @@
+.sideIconsBgColor {
+    background-color: #002874;
+}
+
+.sideIconsActive {
+    border-left: 10px solid #1F94FF !important;
+    background-color: #022e7b !important;
+}
+
+.sideIconsTextBg {
+    background-color: #335390;
+}
+
+.sideIconsSize {
+    height: 20px;
+    width: 24px;
+}
+
+.avatar {
+    border: 1px solid #1F94FF;
+}

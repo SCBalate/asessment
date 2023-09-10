@@ -1,0 +1,15 @@
+.tree-table .parent-row:hover {
+    cursor: pointer;
+  }
+  
+  .tree-table [data-parent] td:first-child {
+    padding-left: 10px;
+  }
+  
+  .tree-table [data-parent] {
+    display: none;
+  }
+  
+  .tree-table [data-parent].expanded {
+    display: table-row;
+  }

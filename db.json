@@ -1,0 +1,156 @@
+{
+    "folders": [
+        {
+            "id": 1,
+            "value": "Stage 1",
+            "valueForTable":"Transaction Folders",
+            "subPhaseString": "4 sub phases",
+            "status": "Continueing",
+            "btnColor":"btn btn-warning text-white",
+            "document": "",
+            "responsibleParty": "Goksu Safi Işik Avukatlik…",
+            "updatedDate": "11.12.2022",
+            "children": [
+                {
+                    "id": "1.1",
+                    "value": "Stage 1.1",
+                    "valueForTable":"Phase",
+                    "subPhaseString": "1 sub phase",
+                    "status": "Continueing",
+            "btnColor":"btn btn-warning text-white",
+                    "document": "",
+                    "responsibleParty": "Goksu Safi Işik Avukatlik…",
+                    "updatedDate": "11.12.2022",
+                    "children": [
+                        {
+                            "id": "1.1.1",
+                            "value": "Stage 1.1.1",
+                            "valueForTable":"Phase",
+                            "subPhaseString": "",
+                            "status": "Continueing",
+            "btnColor":"btn btn-warning text-white",
+                            "document": "",
+                            "responsibleParty": "Goksu Safi Işik Avukatlik…",
+                            "updatedDate": "11.12.2022",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "1.2",
+                    "value": "Stage 1.2",
+                    "valueForTable":"Phase",
+                    "subPhaseString": "",
+                    "status": "Continueing",
+            "btnColor":"btn btn-warning text-white",
+                    "document": "",
+                    "responsibleParty": "Goksu Safi Işik Avukatlik…",
+                    "updatedDate": "11.12.2022",
+                    "children": []
+                },
+                {
+                    "id": "1.3",
+                    "value": "Stage 1.3",
+                    "valueForTable":"Phase",
+                    "subPhaseString": "",
+                    "status": "Continueing",
+                    "btnColor":"btn btn-warning text-white",
+                    "document": "",
+                    "responsibleParty": "Goksu Safi Işik Avukatlik…",
+                    "updatedDate": "11.12.2022",
+                    "children": []
+                },
+                {
+                    "id": "1.4",
+                    "value": "Stage 1.4",
+                    "valueForTable":"Phase",
+                    "subPhaseString": "",
+                    "status": "Continueing",
+                    "btnColor":"btn btn-warning text-white",
+                    "document": "",
+                    "responsibleParty": "Goksu Safi Işik Avukatlik…",
+                    "updatedDate": "11.12.2022",
+                    "children": []
+                }
+
+            ]
+        },
+        {
+            "id": "2",
+            "value": "Stage 2",
+            "valueForTable":"Phase",
+            "subPhaseString": "2 sub phases",
+            "status": "Completed",
+            "btnColor":"btn btn-success text-white",
+            "document": "",
+            "responsibleParty": "Goksu Safi Işik Avukatlik…",
+            "updatedDate": "11.12.2022",
+            "children": [
+                {
+                    "id": "2.1",
+                    "value": "Stage 2.1",
+                    "valueForTable":"Phase",
+                    "subPhaseString": "1 sub phases",
+                    "status": "Completed",
+                    "btnColor":"btn btn-success text-white",
+                    "document": "",
+                    "responsibleParty": "Goksu Safi Işik Avukatlik…",
+                    "updatedDate": "11.12.2022",
+                    "children": [
+                        {
+                            "id":"2.2",
+                            "value": "Stage 2.2",
+                            "valueForTable":"Phase",
+                            "subPhaseString": " ",
+                            "status": "Completed",
+                            "btnColor":"btn btn-success text-white",
+                            "document": "",
+                            "responsibleParty": "Goksu Safi Işik Avukatlik…",
+                            "updatedDate": "11.12.2022",
+                            "children": []
+                        }
+                    ]
+                }
+                
+            ]
+        },
+        {
+            "id": "3",
+            "value": "Stage 3",
+            "valueForTable":"Phase",
+            "subPhaseString": "2 sub phases",
+            "status": "Not Started",
+            "btnColor":"btn btn-danger text-white",
+            "document": "./assets/Wordnew.svg",
+            "responsibleParty": "Goksu Safi Işik Avukatlik…",
+            "updatedDate": "11.12.2022",
+            "children": []
+        },
+        {
+            "id": "4",
+            "value": "Stage 4",
+            "valueForTable":"Phase",
+            "subPhaseString": "4 sub phases",
+            "status": "Not Started",
+            "btnColor":"btn btn-danger text-white",
+            "document": "",
+            "responsibleParty": "Goksu Safi Işik Avukatlik…",
+            "updatedDate": "11.12.2022",
+            "children": []
+        },
+        {
+            "id": "5",
+            "value": "Stage 5",
+            "valueForTable":"Phase",
+            "subPhaseString": "3 sub phases",
+            "status": "Not Started",
+            "btnColor":"btn btn-danger text-white",
+            "document": "",
+            "responsibleParty": "Goksu Safi Işik Avukatlik…",
+            "updatedDate": "11.12.2022",
+            "children": []
+        }
+       
+    ]
+    
+}

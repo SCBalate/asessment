@@ -1,38 +1,101 @@
-.App {
-  text-align: center;
+
+/* Font size */
+.fs-10 {
+  font-size: 9px
+}
+.fs-11 {
+  font-size: 11px
+}
+.fs-12 {
+  font-size: 12px
+}
+.fs-13 {
+  font-size: 13px
+}
+.fs-14 {
+  font-size: 14px
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* bg Color */
+.bg-grey {
+  background-color: #F2F6FA;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.bg-dark-grey {
+  background-color: #E9EDF0;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.bg-table-row{
+  background-color: #FAFBFC;
 }
 
-.App-link {
-  color: #61dafb;
+.bg-light-blue{
+  background-color: #1F94FF1A;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* color */
+.tableSubTextColor{
+  color: #7E8B9F;
+}
+
+.textLightDark{
+  color: #53646C;
+}
+
+.textBlue {
+  color: #126AFA;
+}
+.textBlack {
+  color: #0A0E12;
+}
+
+.textDarkGrey{
+  color: #586677;
+}
+
+.text-icon-blue{
+  color: #1F94FF;
+}
+
+/* Status Color */
+.statusYellow{
+  background-color: #FFC80B;
+  width: 110px;
+}
+
+.statusRed{
+  background-color: #F72142;
+  width: 110px;
+}
+
+.statusGreen{
+  background-color: #00BD8B;
+  width: 110px;
+}
+
+.responseLightGrey{
+  background-color: #F0F4F9;
+}
+
+/* Side Icons */
+.sideIconsBgColor {
+  background-color: #002874;
+}
+
+.sideIconsActive {
+  border-left: 10px solid #1F94FF !important;
+  background-color: #022e7b !important;
+}
+
+.sideIconsTextBg {
+  background-color: #335390;
+}
+
+.sideIconsSize {
+  height: 20px;
+  width: 24px;
+}
+
+.avatar {
+  border: 1px solid #1F94FF;
 }
